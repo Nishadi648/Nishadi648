@@ -69,9 +69,9 @@ Hi! I'm an IT Undergraduate at the Institute of Technology, University of Moratu
 ---
 
 ### 📜 Certifications
-- **Introduction to CBAP** – Simplilearn (Nov 2026)
-- **Get started quickly with Jira** – Atlassian University (Nov 2026)
-- **Personalize how you work in Jira** – Atlassian University (Nov 2026)
+- **Introduction to CBAP** – Simplilearn (2026)
+- **Get started quickly with Jira** – Atlassian University (2026)
+- **Personalize how you work in Jira** – Atlassian University (2026)
 - **AWS Cloud Practitioner Essentials** – AWS Skill Builder (2026)
 - **Python Essentials 1 & Linux Essentials** – Cisco Networking Academy (2026)
 - **AI for Beginners** – HP LIFE (2026)
