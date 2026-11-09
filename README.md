@@ -104,7 +104,7 @@ A selection of academic and personal projects where I explore software engineeri
       <b>Technologies</b><br/>
       <code>Vue.js</code> <code>Go (Golang)</code> <code>Gin Framework</code> <code>PostgreSQL</code> <code>Docker</code>
       <br/><br/>
-      🔗 <a href="https://github.com/Nishadi648/HRM-SYSTEM" target="_blank">View Repository</a>
+      🔗 <a href="https://github.com/Nishadi648/HRMS-.git" target="_blank">View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 FoundIt</h3>
