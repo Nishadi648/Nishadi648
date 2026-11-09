@@ -83,7 +83,7 @@ A selection of academic and personal projects where I explore software engineeri
       <b>Technologies</b><br/>
       <code>Jira</code> <code>Agile/Scrum</code> <code>UML</code> <code>Requirements Gathering</code> <code>BPMN</code>
       <br/><br/>
-      🔗 <a href="https://github.com/Nishadi648" target="_blank">View Repository</a>
+      🔗 <a href="https://github.com/Nishadi648/Digital-Clinic-BA-Project.git">View Repository</a>
     </td>
   </tr>
   <tr>
