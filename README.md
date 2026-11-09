@@ -77,7 +77,6 @@ A selection of academic and personal projects where I explore software engineeri
       <ul>
         <li>Comprehensive Requirements Engineering</li>
         <li>User Stories & Acceptance Criteria</li>
-        <li>UML Diagrams (Use Case & Activity)</li>
         <li>Backlog management in Jira</li>
       </ul>
       <b>Technologies</b><br/>
