@@ -1,5 +1,5 @@
 # Hi, I'm Nishadi Rajasekara 👋
-### IT Undergraduate | Aspiring Business Analyst & Full-Stack Developer
+### IT Undergraduate | Aspiring Business Analyst & FrontEnd Developer
 
 <p align="center">
   <a href="mailto:nishadirajasekara648@gmail.com">
