@@ -64,7 +64,7 @@ A selection of academic and personal projects where I explore software engineeri
       <b>Technologies</b><br/>
       <code>React.js</code> <code>Vite</code> <code>Flutter</code> <code>Node.js</code> <code>PostgreSQL</code> <code>MongoDB</code> <code>Docker</code>
       <br/><br/>
-      🔗 <a href="https://github.com/Nishadi648/DocRoad" target="_blank">View Repository</a>
+      🔗 <a href="https://github.com/DocRoad" target="_blank">View Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 Digital Clinic</h3>
