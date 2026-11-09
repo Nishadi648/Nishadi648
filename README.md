@@ -119,7 +119,6 @@ A selection of academic and personal projects where I explore software engineeri
         <li>Multi-criteria search & smart filtering specs</li>
         <li>Incident lifecycle & status tracking mapping</li>
       </ul>
-      <b>Technologies</b><br/>
       <b>BA Methodologies & Tools</b><br/>
 <code>Requirements Engineering</code> <code>User Workflows</code> <code>Jira/Agile</code> <code>Process Design</code>
       <br/><br/>
