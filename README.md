@@ -120,7 +120,8 @@ A selection of academic and personal projects where I explore software engineeri
         <li>Incident lifecycle & status tracking mapping</li>
       </ul>
       <b>Technologies</b><br/>
-      <code>React.js</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>HTML5/CSS3</code> <code>Git</code>
+      <b>BA Methodologies & Tools</b><br/>
+<code>Requirements Engineering</code> <code>User Workflows</code> <code>Jira/Agile</code> <code>Process Design</code>
       <br/><br/>
       🔗 <a href="https://github.com/Nishadi648/FoundIt.git" target="_blank">View Repository</a>
     </td>
