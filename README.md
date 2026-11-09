@@ -108,21 +108,21 @@ A selection of academic and personal projects where I explore software engineeri
     <td width="50%" valign="top">
       <h3>🔍 FoundIt</h3>
       <b>Lost and Found Web Application</b><br/>
-      <small>BA & Frontend Problem-Solving Project • Frontend Developer</small>
+      <small>BA  Problem-Solving Project </small>
       <br/><br/>
       A community-focused web solution designed to solve the everyday problem of reporting, searching, and claiming lost or found items efficiently.
       <br/><br/>
       <b>Key Features</b>
       <ul>
-        <li>Item reporting & status verification workflow</li>
-        <li>Category, date, and location-based filtering</li>
-        <li>Intuitive and responsive user interface design</li>
-        <li>Client-side state management & local persistence</li>
+        <li>Structured item reporting & submission workflow</li>
+        <li>Secure ownership status verification process</li>
+        <li>Multi-criteria search & smart filtering specs</li>
+        <li>Incident lifecycle & status tracking mapping</li>
       </ul>
       <b>Technologies</b><br/>
       <code>React.js</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>HTML5/CSS3</code> <code>Git</code>
       <br/><br/>
-      🔗 <a href="https://github.com/Nishadi648" target="_blank">View Repository</a>
+      🔗 <a href="https://github.com/Nishadi648/FoundIt.git" target="_blank">View Repository</a>
     </td>
   </tr>
 </table>
