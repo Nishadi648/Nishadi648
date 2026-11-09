@@ -109,6 +109,69 @@ A selection of academic and personal projects where I explore software engineeri
     <td width="50%" valign="top">
       <h3>🔍 FoundIt</h3>
       <b>Lost and Found Web Application</b><br/>
-      <small>MERN Stack Project • Frontend Developer</small>
+      <small>BA & Frontend Problem-Solving Project • Frontend Developer</small>
       <br/><br/>
-      A community platform allowing users to report, search
+      A community-focused web solution designed to solve the everyday problem of reporting, searching, and claiming lost or found items efficiently.
+      <br/><br/>
+      <b>Key Features</b>
+      <ul>
+        <li>Item reporting & status verification workflow</li>
+        <li>Category, date, and location-based filtering</li>
+        <li>Intuitive and responsive user interface design</li>
+        <li>Client-side state management & local persistence</li>
+      </ul>
+      <b>Technologies</b><br/>
+      <code>React.js</code> <code>Tailwind CSS</code> <code>JavaScript</code> <code>HTML5/CSS3</code> <code>Git</code>
+      <br/><br/>
+      🔗 <a href="https://github.com/Nishadi648" target="_blank">View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎓 Education
+- **National Diploma in Information Technology** – Institute of Technology, University of Moratuwa (2025 – Present | Current GPA: 3.67)
+- **G.C.E. Advanced Level (Physical Science)** – Bandaranayake Central College, Veyangoda
+
+---
+
+### 📜 Certifications
+- **Introduction to CBAP** – Simplilearn (2026)
+- **Get started quickly with Jira** – Atlassian University (2026)
+- **Personalize how you work in Jira** – Atlassian University (2026)
+- **AWS Cloud Practitioner Essentials** – AWS Skill Builder (2026)
+- **Python Essentials 1 & Linux Essentials** – Cisco Networking Academy (2026)
+- **AI for Beginners** – HP LIFE (2026)
+- **NVQ Level III & IV in Information & Communication Technology** (2023)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishadi648&theme=dark&hide_border=false" alt="Nishadi's GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+Have an opportunity, an idea, or a project to discuss?  
+I'm always happy to connect with developers, recruiters, and professionals who share an interest in technology and software development.
+
+<p align="center">
+  <a href="mailto:nishadirajasekara648@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishadi-rajasekara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/Nishadi648" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Build with purpose. Learn with curiosity. Keep creating.</em>
+</p>
